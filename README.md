@@ -1,2 +1,2 @@
-# http-eltiburonon.blogspot.com-
+# http-eltiburonon.blogspot.com
 Repositorio para Amp
